@@ -1,4 +1,3 @@
-//Hassan Rizwan, 24I-0616, Assignment 1
 #include <iostream>
 using namespace std;
 
